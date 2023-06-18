@@ -1,0 +1,3 @@
+Hello world!
+It is great to finally be learning coding.
+I was afraid I wasn't going to enjoy it, but this is kind of fun.
